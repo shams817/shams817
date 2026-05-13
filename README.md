@@ -41,12 +41,6 @@ South Bihar Power Distribution Company Ltd. (SBPDCL), Patna – 2025
 - 📧 shamsmallick88@gmail.com
 - 🌐 GitHub: https://github.com/shams817
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shams817&show_icons=true&theme=tokyonight)
-
----
+  - - - 
 
 ⭐ Thanks for visiting my profile!
