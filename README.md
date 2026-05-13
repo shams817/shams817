@@ -16,9 +16,12 @@
 
 - Java
 - MySQL
+- Springboot 
 - JDBC
 - HTML
 - CSS
+- Node.js
+- React 
 - Git & GitHub
 
 ---
