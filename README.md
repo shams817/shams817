@@ -1,0 +1,52 @@
+<h1 align="center">Hi 👋, I'm Shams Mallick</h1>
+<h3 align="center">Java Developer | BCA Graduate | Backend Enthusiast</h3>
+
+---
+
+## 🚀 About Me
+
+🎓 BCA Graduate (2022–2025)  
+💻 Java Developer  
+🌱 Learning Backend Development  
+⚡ Skilled in Java, JDBC & MySQL  
+
+---
+
+## 🛠 Skills
+
+- Java
+- MySQL
+- JDBC
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+### Electricity Bill Management System
+Java + MySQL + JDBC based project.
+
+---
+
+## 💼 Internship
+
+South Bihar Power Distribution Company Ltd. (SBPDCL), Patna – 2025
+
+---
+
+## 📫 Connect With Me
+
+- 📧 shamsmallick88@gmail.com
+- 🌐 GitHub: https://github.com/shams817
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shams817&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
